@@ -1,5 +1,4 @@
 # Dots
-For Processing
 
 Just download the folder and open up either of the files in Processing.
 
